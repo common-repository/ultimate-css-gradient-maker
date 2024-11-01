@@ -1,0 +1,102 @@
+.clear {
+	clear: both !important;
+}
+
+/*
+* Color
+*/
+#ucgm_dynamic_colors  {
+	margin-bottom: 15px;	
+}
+
+#ucgm_dynamic_colors .wp-picker-container {
+	display: inline;
+}
+
+#ucgm_dynamic_colors .ucgm_span {
+	display: inline-block;
+}
+
+#ucgm_dynamic_colors .ucgm_span_percent {
+	margin-left: 30px;
+}
+
+#ucgm_dynamic_colors .ucgm_span_remove {
+	margin-left: 30px;
+	position: relative;
+	bottom: 6px;
+}
+
+#ucgm_dynamic_colors .ucgm_dynamic_color_wrap {
+	margin-top: 10px;
+}
+
+/*
+* Type
+*/
+#ucgm_dynamic_colors .wp-picker-container .wp-color-result.button {
+    position: relative;
+    bottom: 3px;
+}
+
+#ucgm_type_wrap .ucgm_type_span {
+	margin-right: 5px;
+}
+
+#ucgm_type_wrap .ucgm_type_span_radial {
+	margin-left: 15px;
+}
+
+#ucgm_type_wrap p {
+	font-weight: 500;
+    text-decoration: underline;
+}
+
+#ucgm_type_wrap {
+	margin-top: 15px;
+}
+
+#ucgm_type .update_preview {
+	margin-top: 15px;
+}
+
+#ucgm_type_wrap__radial,
+#ucgm_type_wrap__linear {
+	position: relative;
+	bottom: 30px;
+	left: 200px;
+}
+
+/*
+* Settings
+*/
+#ucgm_settings_wrap .ucgm_setting_wrap {
+	margin-bottom: 10px;
+}
+
+#ucgm_settings_wrap .ucgm_set_span {
+	width: 150px;
+	display: inline-block;
+}
+
+/*
+* Preview
+*/
+#ucgm_preview {
+	width: 500px;
+	height: 300px;
+	text-align: center;
+	background: lightgray;
+	align-items: center;
+	justify-content: center;
+	display: flex;
+}
+
+.not_preview_div_wrap {
+	margin-right: 30px;
+}
+
+#ucgm_colors .inside {
+	display: flex;
+	overflow: hidden;
+}
